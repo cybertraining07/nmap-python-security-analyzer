@@ -1,0 +1,3 @@
+IP,Protocol,Port,State,Service,Product,Version,Tunnel
+127.0.0.1,tcp,8000,open,http,Splunkd httpd,unknown,ssl
+127.0.0.1,tcp,8089,open,http,Splunkd httpd,unknown,ssl

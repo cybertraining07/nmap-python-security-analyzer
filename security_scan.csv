@@ -1,0 +1,5 @@
+IP,Port,Service,Status
+192.168.1.10,22,SSH,Open
+192.168.1.10,80,HTTP,Open
+192.168.1.20,443,HTTPS,Open
+192.168.1.30,21,FTP,Closed
